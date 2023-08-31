@@ -1,4 +1,3 @@
-theme: minima
 # Nicholas' First CS193 Homework
 
 - Terminal Lecture
